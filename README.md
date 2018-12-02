@@ -1,0 +1,2 @@
+# gamagen
+GitHub Pages
